@@ -1,0 +1,7 @@
+print(True+True)
+print(False+True)
+print(True+420)
+print(False+False)
+print(True)
+print(True+0xA)
+print(0b1010+True)
